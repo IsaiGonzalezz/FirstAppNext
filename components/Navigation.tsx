@@ -4,6 +4,8 @@ const Navigation = () => {
       <nav className="absolute top-5 right-0 z-10">
       <a href="./home" className="text-white hover:text-pink-500 px-4 py-2 border-r border-white">HOME</a>
       <a href="./acerca" className="text-white hover:text-pink-500 px-4 py-2 border-r border-white">ACERCA DE</a>
+      <a href="./counter" className="text-white hover:text-pink-500 px-4 py-2 border-r border-white">CONTADOR</a>
+
       </nav> 
     </div> 
   );

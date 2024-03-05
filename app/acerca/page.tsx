@@ -1,4 +1,5 @@
 export default function Page(){
-    return
+    return(
     <p>Glu glu glu, glu glu glu</p>
+    );
 }

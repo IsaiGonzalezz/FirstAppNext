@@ -1,6 +1,9 @@
 import Image from "next/image";
 import styles from "@/styles/index.module.css"
 
+//import Head from 'next/head';
+//import Counter from "@/app/components/Counter";
+
 export default function Home() {
   return (
     <main className="flex flex-col justify-center items-center h-screen bg-black">
@@ -18,6 +21,7 @@ export default function Home() {
           <p className="mt-4 text-white text-lg">Meowth - Pokemon</p>
         </div>
       </div>
+      
     </main>
   );
 }
